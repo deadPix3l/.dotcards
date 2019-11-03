@@ -1,5 +1,6 @@
 # .dotcards
- ![DotCards] (logo.png)
+ ![DotCards](logo.png)
+
 Keep your Dotfiles with you. Always.
 
 Dotcards are just dotfiles, but smaller.
